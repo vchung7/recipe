@@ -1,6 +1,9 @@
-### This is a LOCAL change :)
-# recipe
-line 2 changed remotely
-Our banana bread recipe
-This recipe is a banana bread that I've tried previously and was ok.
-### This is a REMOTE change :O
+# Banana Bread
+### Our ok banana bread recipe
+![BananaBread](recipe.jpg)
+This recipe is a banana bread that I've tried previously and was **ok**.
+
+The recipe includes use of:
+* Milk
+* Flour
+* Eggs
